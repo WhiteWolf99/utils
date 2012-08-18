@@ -3,7 +3,7 @@ utils
 
 Utils for faster work
 
-PHP web development local envrinonment setup helper for ubuntu
+PHP web development local envrionment setup helper for ubuntu
 -----------------------------------------------------------------
 
 Usage:
